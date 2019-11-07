@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name wifibt-adapter)(type KiCad)(uri ${KIPRJMOD}/wifibt-adapter.pretty)(options "")(descr ""))
+)
